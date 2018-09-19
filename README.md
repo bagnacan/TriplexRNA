@@ -7,8 +7,8 @@ MiRNA cooperativity has been experimentally characterised by [Sætrom *et al.* (
 
 <p align="center">
 <img align="center" src="images/triplex_duplex_patterns.png" width="600px" alt="RNA triplex and RNA duplex regulatory patterns" />
-<sub>**Figure 1**. A target mRNA can be repressed by either a single miRNA (right), or by a pair of cooperating miRNAs (left). While in the first case miRNA and target form a *duplex* structure, the second case leads to the formation of a RNA *triplex*. In a RNA triplex, even if the expression of the cooperating miRNAs is only mildly up-regulated, an enhanced repressive effect can be observed as compared to the cases where single miRNAs are highly up-regulated.</sub>
 </p>
+<sub>**Figure 1**. A target mRNA can be repressed by either a single miRNA (right), or by a pair of cooperating miRNAs (left). While in the first case miRNA and target form a *duplex* structure, the second case leads to the formation of a RNA *triplex*. In a RNA triplex, even if the expression of the cooperating miRNAs is only mildly up-regulated, an enhanced repressive effect can be observed as compared to the cases where single miRNAs are highly up-regulated.</sub>
 
 ## Data
 The TriplexRNA contains predicted RNA triplexes for Human and Mouse. Each triplex is characterized by
@@ -24,6 +24,6 @@ This feature is illustrated in **Figure 2**, and allows researchers to identify 
 
 <p align="center">
 <img align="center" src="images/metabolic_pathway_integration.png" width="600px" alt="Targets of selected cooperative miRNAs are interactively highlighted within the specified KEGG metabolic pathway" />
-<sub>**Figure 2**. Visualization of the mutual target genes of selected miRNA pair hsa-miR-374a and hsa-miR-590-3p within the KEGG disease pathway *Asthma*. Here, common target genes are highlighted in yellow.</sub>
 </p>
+<sub>**Figure 2**. Visualization of the mutual target genes of selected miRNA pair hsa-miR-374a and hsa-miR-590-3p within the KEGG disease pathway *Asthma*. Here, common target genes are highlighted in yellow.</sub>
 
